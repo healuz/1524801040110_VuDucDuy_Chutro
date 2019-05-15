@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1038851590877",
+    "firebase_url": "https://thuetro-1e96c.firebaseio.com",
+    "project_id": "thuetro-1e96c",
+    "storage_bucket": "thuetro-1e96c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038851590877:android:d9b100313e6faa9f",
+        "android_client_info": {
+          "package_name": "kgs.ku.chutro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038851590877-oudqll2i6kl12jnjk4t1965u0al7j9oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBYCtSg-VWu_KE0w5WV7sz6Oc-fN0qW9Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

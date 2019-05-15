@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">chutro</string>
+    <string name="nav_QuanLy">Quản lý</string>
+    <string name="nav_baocao">Báo cáo</string>
+    <string name="nav_nguoidung">Cá nhân</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
